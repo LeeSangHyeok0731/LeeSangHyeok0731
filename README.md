@@ -3,4 +3,6 @@
 I am 이상혁<br>
 in English, Lee SangHYeok
 
+Im student in Gwangju Software Meister Highschool
+
 valid until 02/2027
